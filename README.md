@@ -5,8 +5,6 @@ I'm Seonaid. Teacher, Editor, Writer, and newly-anointed Full Stack Developer (C
 - De-bugging & implementing new features on [this](https://github.com/seonaid-mcnabb/t1d-organizer/ "this") personal project.
 ## 🌱 Currently learning:
 - Computer science fundamentals through Harvard's CS50x MOOC
-- Python on Codecademy
-- Cyber Security basics on TryHackMe
 ## 📑 Want to learn:
 - AI & its applications in the healthcare sector
 - TypeScript
