@@ -8,11 +8,7 @@ I'm Seonaid. Teacher, Editor, Writer, and newly-anointed Full Stack Developer (C
 ## 📑 Want to learn:
 - AI & its applications in the healthcare sector
 - TypeScript
-- GraphQL
-- NoSQL
 - Absolutely Everything
 ## 💬 Get in touch:
 - [LinkedIn](https://www.linkedin.com/in/seonaid-mcnabb/ "LinkedIn")
-## ✨Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonaid-mcnabb)](https://github.com/anuraghazra/github-readme-stats)
 
